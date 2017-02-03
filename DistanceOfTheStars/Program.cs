@@ -19,10 +19,6 @@ namespace DistanceOfTheStars
             Console.WriteLine($"{milkyWay * 9450000000000:0.##e+000}");
             Console.WriteLine($"{diameterOfMilkyWay * 9450000000000:0.##e+000}");
             Console.WriteLine($"{toTheEdge * 9450000000000:0.##e+000}");
-
-
-
-
         }
     }
 }
