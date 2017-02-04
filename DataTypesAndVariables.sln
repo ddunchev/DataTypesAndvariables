@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementVariable", "Increm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerabitesToBites", "TerabitesToBites\TerabitesToBites.csproj", "{0B720F08-54DB-4829-B1D9-EF53AA68827B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingAtLightSpeed", "TravelingAtLightSpeed\TravelingAtLightSpeed.csproj", "{03B1DFB6-36D3-4073-B5F6-EE4FEC316014}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0B720F08-54DB-4829-B1D9-EF53AA68827B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B720F08-54DB-4829-B1D9-EF53AA68827B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B720F08-54DB-4829-B1D9-EF53AA68827B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B1DFB6-36D3-4073-B5F6-EE4FEC316014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B1DFB6-36D3-4073-B5F6-EE4FEC316014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B1DFB6-36D3-4073-B5F6-EE4FEC316014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B1DFB6-36D3-4073-B5F6-EE4FEC316014}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
