@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceOfTheStars", "Dista
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementVariable", "IncrementVariable\IncrementVariable.csproj", "{2AADDB3E-0086-4C98-9DFD-1C03595CC75F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerabitesToBites", "TerabitesToBites\TerabitesToBites.csproj", "{0B720F08-54DB-4829-B1D9-EF53AA68827B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2AADDB3E-0086-4C98-9DFD-1C03595CC75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AADDB3E-0086-4C98-9DFD-1C03595CC75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AADDB3E-0086-4C98-9DFD-1C03595CC75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B720F08-54DB-4829-B1D9-EF53AA68827B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B720F08-54DB-4829-B1D9-EF53AA68827B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B720F08-54DB-4829-B1D9-EF53AA68827B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B720F08-54DB-4829-B1D9-EF53AA68827B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
