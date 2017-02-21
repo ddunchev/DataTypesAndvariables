@@ -33,6 +33,8 @@ namespace TravelingAtLightSpeed
             Console.WriteLine($"{Math.Truncate(min % 60)} minutes");
 
             Console.WriteLine($"{Math.Truncate(sec % 60)} seconds");
+
+            //this is a comment
         }
     }
 }
